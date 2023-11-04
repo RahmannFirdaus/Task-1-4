@@ -6,9 +6,9 @@ Kode ini merupakan kerangka dasar dari sebuah kelas Java dengan nama "Task1". Da
 
 - Kode `for (int i = 1; i <= 100; i++)` adalah deklarasi perulangan `for`. Pada kode saya menggunakan  variabel `i` sebagai penghitung perulangan. Perulangan ini akan berjalan dari `i = 1` hingga `i <= 100`, dan setiap kali perulangan dilakukan, nilai `i` akan bertambah 1 (`i++`).
 - Di dalam perulangan, kita memiliki struktur `if-else`. Jika nilai `i` lebih besar atau sama dengan 10, maka pesan "Rahman Firdaus Illahi" akan dicetak menggunakan `System.out.println()`. Jika tidak, yaitu saat `i` kurang dari 10, maka nilai `i` akan dicetak menggunakan `System.out.print()` tanpa karakter baris baru.
-- Selama perulangan berjalan, pesan "Rahman Firdaus Illahi" akan terus dicetak setiap kali nilai `i` lebih besar atau sama dengan 10. Sebelum mencapai nilai 10, nilai `i` akan dicetak secara berurutan mulai dari 0.
+- Selama perulangan berjalan, pesan "Rahman Firdaus Illahi" akan terus dicetak setiap kali nilai `i` lebih besar atau sama dengan 10. Sebelum mencapai nilai 10, nilai `i` akan dicetak secara berurutan mulai dari 1.
 
-Kesimpulan fungsi dari kode ini adalah untuk melakukan perulangan dari 1 hingga 100, dan mencetak angka dari 0 sampai 9 serta mencetak sebuah pesan "Rahman Firdaus illahi" mulai dari angka 10 dan seterusnya.
+Kesimpulan fungsi dari kode ini adalah untuk melakukan perulangan dari 1 hingga 100, dan mencetak angka dari 1 sampai 9 serta mencetak sebuah pesan "Rahman Firdaus illahi" mulai dari angka 10 dan seterusnya.
 
 ### PENJELASAN SOAL 2
 ![alt text](https://github.com/RahmannFirdaus/RahmannFirdaus/blob/main/publik/Screenshot%202023-11-04%20132036.png?raw=true)
